@@ -5,3 +5,4 @@ numpy
 cvlib
 flask
 pickle5
+gunicorn
