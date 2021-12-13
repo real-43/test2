@@ -4,4 +4,4 @@ face_recognition
 numpy
 cvlib
 flask
-pickle
+pickle5
