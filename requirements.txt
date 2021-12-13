@@ -6,3 +6,4 @@ cvlib
 flask
 pickle5
 gunicorn
+cmake
