@@ -1,0 +1,8 @@
+opencv-contrib-python
+Flask==0.11.1
+face_recognition
+numpy
+cvlib
+threading
+flask
+pickle
